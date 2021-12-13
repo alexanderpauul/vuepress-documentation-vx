@@ -1,0 +1,19 @@
+{
+  "name": "vuepress-documentation-vx",
+  "version": "0.0.1",
+  "description": "To learn vuepress",
+  "main": "index.js",
+  "authors": {
+    "name": "Alexander",
+    "email": "alexanderpauul@hotmail.com"
+  },
+  "repository": "/vuepress-documentation-vx//vuepress-documentation-vx",
+  "scripts": {
+    "dev": "vuepress dev src",
+    "build": "vuepress build src"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "vuepress": "^1.5.3"
+  }
+}
