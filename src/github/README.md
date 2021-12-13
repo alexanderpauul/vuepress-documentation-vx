@@ -1,4 +1,4 @@
-# Schema Zen - Script and create SQL Server objects quickly
+# Schema Zen - Script and create SQL Server objects quickly (alpauul)
 
 ## Schema Zen has three main commands:
 
